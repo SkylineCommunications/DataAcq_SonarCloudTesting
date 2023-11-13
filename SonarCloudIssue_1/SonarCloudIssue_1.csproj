@@ -24,5 +24,4 @@
 		    <UserProperties DisLinkedXmlFile="..\SonarCloudIssue.xml" DisProjectType="automationScriptProject" DisLinkId="1" />
         </VisualStudio>
 	</ProjectExtensions>
-	<Import Project="..\..\SharedProject1\SharedProject1.projitems" Label="Shared" />
 </Project>

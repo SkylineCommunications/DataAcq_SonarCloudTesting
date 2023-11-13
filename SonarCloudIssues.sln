@@ -46,7 +46,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Actions", "Actions", "{13F5
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SonarCloudIssue_1", "SonarCloudIssue_1\SonarCloudIssue_1.csproj", "{37D66AAB-FC4E-410E-8A5C-532AE5981054}"
 EndProject
-Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "SharedProject1", "..\SharedProject1\SharedProject1.shproj", "{0787645E-185F-4D6E-B3E8-DE62EC2FFE44}"
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "SharedProject1", "SharedProject1\SharedProject1.shproj", "{0787645E-185F-4D6E-B3E8-DE62EC2FFE44}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -74,7 +74,6 @@ Global
 		SolutionGuid = {A735DE88-5132-47A7-B863-BAA3B868F930}
 	EndGlobalSection
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
-		..\SharedProject1\SharedProject1.projitems*{0787645e-185f-4d6e-b3e8-de62ec2ffe44}*SharedItemsImports = 13
-		..\SharedProject1\SharedProject1.projitems*{37d66aab-fc4e-410e-8a5c-532ae5981054}*SharedItemsImports = 5
+		SharedProject1\SharedProject1.projitems*{0787645e-185f-4d6e-b3e8-de62ec2ffe44}*SharedItemsImports = 13
 	EndGlobalSection
 EndGlobal
