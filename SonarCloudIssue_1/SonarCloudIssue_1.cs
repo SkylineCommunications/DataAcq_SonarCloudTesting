@@ -68,7 +68,7 @@ namespace SonarCloudIssue_1
         /// <param name="engine">Link with SLAutomation process.</param>
         public void Run(IEngine engine)
         {
-            this.e = engine;
+            e = engine;
             Class1 class1 = new Class1("");
         }
     }

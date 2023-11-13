@@ -6,7 +6,7 @@
 
 	    public Class1(string a)
 	    {
-		    this.ab = a;
+		    ab = a;
 	    }
     }
 }
